@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B71C1C"
+    tools:context="com.example.jhonty.rsaproject.DashBoardActivity"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="2"
+        android:rowCount="3"
+        android:layout_margin="5dp">
+
+
+        <ImageButton
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:id="@+id/imgB1"
+            android:src="@drawable/ra" />
+
+        <ImageButton
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:id="@+id/imgB2"
+            android:src="@drawable/em" />
+        <ImageButton
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:id="@+id/imgB3"
+            android:src="@drawable/s" />
+
+        <ImageButton
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:id="@+id/imgB4"
+            android:src="@drawable/vh" />
+
+    <ImageButton
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:id="@+id/imgB5"
+        android:src="@drawable/loc" />
+
+    <ImageButton
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:id="@+id/imgB6"
+        android:src="@drawable/more"/>
+
+
+    </GridLayout>
+</LinearLayout>

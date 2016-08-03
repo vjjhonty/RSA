@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RoadSide Asst</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Phone No.</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="txt1">Roadside Assistance representatives are standing by 24/7 to assist you. Should you require further assistance you need
+    to cancel your roadside assistance request, please contact Roadside Assistance using the button below.
+    </string>
+    <string name="txt2">To Better serve you, specialists are available to take your call from
+        9 AM to 9 PM Indian Standard Time(+5:30 GMT),Monday through Saturday.</string>
+    <string name="txt3">The RSA (Roadside Assistance) mobile application is a free, easy to use mobile resoure connecting you with Roadside Assistance at touch of a button.</string>
+    <string name="eula">
+        End-User License Agreement ("Agreement"):
+Last updated: July 14, 2016
+Please read this End-User License Agreement ("Agreement") carefully before clicking the "I Agree" button, downloading or using RSA ("Application").
+By clicking the "I Agree" button, downloading or using the Application, you are agreeing to be bound by the terms and conditions of this Agreement.
+This Agreement is a legal agreement between you (either an individual or a single entity) and RSA and it governs your use of the Application made available to you by RSA.
+If you do not agree to the terms of this Agreement, do not click on the "I Agree" button and do not download or use the Application.
+The Application is licensed, not sold, to you by RSA for use strictly in accordance with the terms of this Agreement.
+License
+RSA grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the Application solely for your personal, non-commercial purposes strictly in accordance with the terms of this Agreement.
+
+
+    </string>
+
+</resources>
